@@ -4,7 +4,7 @@ Operate Devices using ThingSpeak and ESP8266 (D1 mini)
 
 //this program takes a "code" from your Thingspeak channel and operates a device according to his "bit"
 
-// code has 5 bits
+// code has 5 bits, bit=='1' device is on, bit=='0' device is off.
 
 
 // 1---- is for testing and always '1'
